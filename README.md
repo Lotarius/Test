@@ -1,4 +1,4 @@
-# Еesting the site with the help of a Puppeteer
+# TЕesting the site with the help of a Puppeteer
 
  <!-- [START badges] -->
 Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/). 
