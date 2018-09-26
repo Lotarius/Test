@@ -1,7 +1,7 @@
 # Еesting the site with the help of a Puppeteer
 
  <!-- [START badges] -->
-Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
+ [![Linux Build Status](https://img.shields.io/travis/GoogleChrome/puppeteer/master.svg)](https://travis-ci.org/GoogleChrome/puppeteer) [![Windows Build Status](https://img.shields.io/appveyor/ci/aslushnikov/puppeteer/master.svg?logo=appveyor)](https://ci.appveyor.com/project/aslushnikov/puppeteer/branch/master) [![Build Status](https://api.cirrus-ci.com/github/GoogleChrome/puppeteer.svg)](https://cirrus-ci.com/github/GoogleChrome/puppeteer) [![NPM puppeteer package](https://img.shields.io/npm/v/puppeteer.svg)](https://npmjs.org/package/puppeteer)
  <!-- [END badges] -->
  
 ## INSTALLATION
@@ -30,7 +30,7 @@ please read the documentation before using Puppeteer
 
 ## Getting started with Puppeteer
 
-For a quick check of Puppeteer, download the TestCheckOut script and place it in
+For a quick check of Puppeteer, download the "TestCheckOut" script and place it in
 ```bash
 cd C:\Program Files\nodejs
 ```
@@ -39,5 +39,5 @@ On command line, type in the following commands "Node.js command prompt":
 ```bash
 node TestCheckOut.js
 ```
- 
+now you can test sites through Puppeteer
 
