@@ -4,7 +4,7 @@
 Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the DevTools Protocol. Puppeteer runs headless by default, but can be configured to run full (non-headless) Chrome or Chromium.
  <!-- [END badges] -->
  
-# INSTALLATION
+## INSTALLATION
 
 To start working with Puppeteer you need to install [node js](https://nodejs.org/en/).
 download the latest version node JS  and install in:
@@ -28,7 +28,7 @@ wait for the download to complete puppeteer
  
 please read the documentation before using Puppeteer
 
-# Getting started with Puppeteer
+## Getting started with Puppeteer
 
 For a quick check of Puppeteer, download the TestCheckOut script and place it in
 ```bash
