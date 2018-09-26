@@ -1,7 +1,9 @@
 # Еesting the site with the help of a Puppeteer
 
  <!-- [START badges] -->
- [![Linux Build Status](https://img.shields.io/travis/GoogleChrome/puppeteer/master.svg)](https://travis-ci.org/GoogleChrome/puppeteer) [![Windows Build Status](https://img.shields.io/appveyor/ci/aslushnikov/puppeteer/master.svg?logo=appveyor)](https://ci.appveyor.com/project/aslushnikov/puppeteer/branch/master) [![Build Status](https://api.cirrus-ci.com/github/GoogleChrome/puppeteer.svg)](https://cirrus-ci.com/github/GoogleChrome/puppeteer) [![NPM puppeteer package](https://img.shields.io/npm/v/puppeteer.svg)](https://npmjs.org/package/puppeteer)
+Puppeteer is a Node library which provides a high-level API to control Chrome or Chromium over the [DevTools Protocol](https://chromedevtools.github.io/devtools-protocol/). 
+Puppeteer runs [headless](https://developers.google.com/web/updates/2017/04/headless-chrome) 
+by default, but can be configured to run full (non-headless) Chrome or Chromium.
  <!-- [END badges] -->
  
 ## INSTALLATION
